@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: detect-me-automatically
+  description: This is a service to be automatically picked up by Backstage
+  
+  tags:
+    - tag
+    - tag2
+spec:
+  type: service
+  owner: stribble-backstage
+  lifecycle: experimental
+  system: user-management
