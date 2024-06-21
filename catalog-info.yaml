@@ -6,7 +6,7 @@ metadata:
   
   tags:
     - tag
-    - updated
+    - updated2
 spec:
   type: service
   owner: stribble-backstage
