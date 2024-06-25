@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: detect-me-automatically
   description: This is a service to be automatically picked up by Backstage
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   
   tags:
     - tag
