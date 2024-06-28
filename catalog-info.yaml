@@ -5,7 +5,7 @@ metadata:
   description: This is a service to be automatically picked up by Backstage
   annotations:
     backstage.io/techdocs-ref: dir:.
-  
+    backstage.io/linguist: https://github.com/stribble-backstage/docs-test
   tags:
     - tag
     - updated1
